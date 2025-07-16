@@ -1,0 +1,15 @@
+# Python virtual environment folders
+venv/
+Lib/
+Include/
+Scripts/
+pyvenv.cfg
+
+# VS Code settings
+.vscode/
+
+# Python bytecode and caches
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
